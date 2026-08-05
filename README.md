@@ -27,4 +27,4 @@ This repository contains the daily tasks completed during my Artificial Intellig
 
 ## Author
 
-Anirudh Menon
+Rithin B 
